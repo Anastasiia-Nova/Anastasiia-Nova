@@ -46,7 +46,7 @@ My best works are categorized by:
 ## 📬 Contact
 
 - Email: anastasiia.ch55@gmail.com
-- LinkedIn: linkedin.com/in/anastasiia-chalova-b41620232/  
+- LinkedIn: https://linkedin.com/in/anastasiia-chalova-b41620232
 
 
 <!--
