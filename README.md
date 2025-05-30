@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Anastasiia Chalova!
-Other names:Alexandra, Xandra, Alexa (and other from Alexandra)
 
 🎓 I'm a Bachelor student in Information Technology at Brno University of Technology (Faculty of Information Technologies).  
 💻 Passionate about front-end development, programming, and creative problem solving.
